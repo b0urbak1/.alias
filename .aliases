@@ -9,7 +9,10 @@ alias gc="git commit"
 alias gcl="git clone"
 alias gmv="git mv"
 alias grl="git reflog"
-alias x="sudo apt"
+# For Deb:
+# alias x="sudo apt"
+# For RPM:
+alias x="sudo dnf"
 alias open="xdg-open"
 alias cl="clear"
 alias python="python3"
